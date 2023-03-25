@@ -56,6 +56,15 @@
   </url>
   
   <url>
+    <loc>https://www.oysj.top/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.oysj.top/site/census/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
@@ -65,7 +74,16 @@
   </url>
   
   <url>
-    <loc>https://www.oysj.top/personal/love/index.html</loc>
+    <loc>https://www.oysj.top/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.oysj.top/life/music/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -92,24 +110,6 @@
   </url>
   
   <url>
-    <loc>https://www.oysj.top/life/music/index.html</loc>
-    
-    <lastmod>2023-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.oysj.top/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.oysj.top/categories/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.oysj.top/box/nav/index.html</loc>
+    <loc>https://www.oysj.top/box/gallery/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.oysj.top/box/gallery/index.html</loc>
+    <loc>https://www.oysj.top/box/nav/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
